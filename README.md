@@ -61,7 +61,7 @@ We welcome contributions! If you have any improvements, bug fixes, or new ideas,
 - Create a new branch.
 - Submit a **Pull Request** with a detailed description of your changes.
 
-### Repo Link: [https://github.com/manxlr/android-image-resizer](https://github.com/manxlr/androidimageresizer)
+### Repo Link: [https://github.com/manxlr/androidimageresizer](https://github.com/manxlr/androidimageresizer)
 
 ---
 
