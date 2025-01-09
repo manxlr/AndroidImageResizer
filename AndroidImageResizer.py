@@ -56,6 +56,9 @@ root.title("Android Image Resizer")
 root.geometry("400x300")
 root.configure(bg="#f0f4f7")
 
+# Set Custom Icon
+root.iconbitmap('app_icon.ico')  # Replace 'app_icon.ico' with your actual .ico file
+
 # Style Configuration
 style = Style()
 style.theme_use("clam")
