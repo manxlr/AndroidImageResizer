@@ -35,11 +35,7 @@ Please use this link to download [Setup](https://github.com/manxlr/AndroidImageR
 ### Source Code
 
 1. Clone or download the repository.
-2. Install the dependencies by running the following command in your project directory:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the application using:
+2. Run the application using:
    ```bash
    python AndroidImageResizer.py
    ```
