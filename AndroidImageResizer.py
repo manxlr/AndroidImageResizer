@@ -57,7 +57,7 @@ root.geometry("400x300")
 root.configure(bg="#f0f4f7")
 
 # Set Custom Icon
-root.iconbitmap('app_icon.ico')  # Replace 'app_icon.ico' with your actual .ico file
+root.iconbitmap(os.path.join(os.path.dirname(__file__), 'app_icon.ico'))
 
 # Style Configuration
 style = Style()
