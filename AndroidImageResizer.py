@@ -1,4 +1,5 @@
-from tkinter import Tk, filedialog, Button, Label, messagebox
+from tkinter import Tk, filedialog, messagebox
+from tkinter.ttk import Button, Label, Style
 from PIL import Image
 import os
 
@@ -52,8 +53,20 @@ def resize_image():
 # Initialize the GUI
 root = Tk()
 root.title("Android Image Resizer")
+root.geometry("400x300")
+root.configure(bg="#f0f4f7")
+
+# Style Configuration
+style = Style()
+style.theme_use("clam")
+style.configure("TButton", font=("Arial", 12), padding=10, background="#0078d7", foreground="white")
+style.map("TButton", background=[("active", "#005bb5")])
+style.configure("TLabel", font=("Arial", 10), background="#f0f4f7", foreground="#333")
 
 # UI Elements
+title_label = Label(root, text="Android Image Resizer", font=("Arial Bold", 16))
+title_label.pack(pady=10)
+
 select_image_button = Button(root, text="Select Image", command=select_image)
 select_image_button.pack(pady=5)
 
