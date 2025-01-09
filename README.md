@@ -30,7 +30,7 @@ A simple and modern **Android Image Resizer** built with **Python** and **Tkinte
 To run the application:
 
 ### Windows Executable
-Please use this link to download [Setup](https://github.com/manxlr/android-image-resizer/releases/download/v1.0.0/Android.Image.Resizer.Setup.1.0.0.exe).
+Please use this link to download [Setup](https://github.com/manxlr/AndroidImageResizer/releases/download/v1.0.0/AndroidImageResizer.exe).
 
 ### Source Code
 
