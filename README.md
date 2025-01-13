@@ -39,10 +39,23 @@ Please use this link to download [Setup](https://github.com/manxlr/AndroidImageR
    ```bash
    python AndroidImageResizer.py
    ```
-4. A GUI window will open, allowing you to select an image, choose the output directory, and resize the image to Android-specific sizes.
+3. A GUI window will open, allowing you to select an image, choose the output directory, and resize the image to Android-specific sizes.
 
 ![Android Image Resizer GUI](assets/Main_GUI.png)
 
+4. Results
+  - Original Image
+![Android Image Resizer GUI](assets/santa.webp)
+  - mdpi
+![Android Image Resizer GUI](assets/mdpi_santa.webp)
+  - hdpi
+![Android Image Resizer GUI](assets/hdpi_santa.webp)
+ -  xhdpi
+![Android Image Resizer GUI](assets/xhdpi_santa.webp)
+ -  xxhdpi
+![Android Image Resizer GUI](assets/xxhdpi_santa.webp)
+ -  xxxhdpi
+![Android Image Resizer GUI](assets/xxxhdpi_santa.webp)
 ---
 
 ## 🛠️ **Features**
