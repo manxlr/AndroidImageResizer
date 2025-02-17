@@ -1,6 +1,6 @@
 # 🎨 Android Image Resizer
 
-A simple and modern **Android Image Resizer** built with **Python** and **Tkinter**. This lightweight application allows developers to resize images to predefined Android development sizes with a user-friendly interface.
+A simple and modern **Android Image Resizer** app built with **Python** and **Tkinter**. This lightweight application allows developers to resize images to predefined Android development sizes with a user-friendly interface.
 
 **Android Image Resizer** streamlines the process of creating images for various Android screen densities, ensuring that developers can focus on building great apps without worrying about manual image resizing.
 
